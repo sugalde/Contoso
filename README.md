@@ -1,2 +1,3 @@
 # Contoso
 DummieApp
+Edition
